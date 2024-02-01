@@ -1,0 +1,2 @@
+# Surveillance of Mental Health Indicators through Online Channels
+ Introducing 'Suicidal Tweet Detection': Our dataset aids in developing machine learning models to identify and support individuals expressing potential suicidal thoughts on social media. It offers curated tweets, annotated for non-suicidal and potentially suicidal content, serving as a valuable resource for NLP and sentiment analysis researchers.
